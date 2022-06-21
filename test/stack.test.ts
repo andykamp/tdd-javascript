@@ -49,3 +49,5 @@ describe("My Stack", () => {
     expect(stack.top).toEqual(-1);
   });
 });
+
+export {};
