@@ -8,10 +8,10 @@
     "preview": "vite preview",
     "test": "jest --watchAll --verbose --coverage",
     "e2e": "cypress open"
-
   },
   "devDependencies": {
     "@types/jest": "^28.1.2",
+    "cypress": "^10.1.0",
     "ts-jest": "^28.0.5",
     "typescript": "^4.5.4",
     "vite": "^2.9.9"
